@@ -12,7 +12,7 @@
 - лог сервера с информацией о посещениях сайта (файл visits_info_short.csv)
 - информация о заказах (файл orders_info_short.csv)
 - информация о расходах на рекламу (файл costs_info_short.csv)
-- 
+
 ### Используемые библиотеки
 pandas, numpy, matplotlib, datetime
 
