@@ -20,4 +20,4 @@
 - ExpId — номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная
 
 ### Используемые библиотеки
-pandas, matplotlib, numpy, seaborn, scpy, plotly
+pandas, matplotlib, numpy, seaborn, scipy, plotly
